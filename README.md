@@ -34,8 +34,3 @@ Project uses react native community code style from ESLint.
 
 
 
-iOS issues:
-
-1. Remove `Pods` folder from `ios/Pods` and install from scratch
-
-Make sure u are cleaning watchman, metro bundler
